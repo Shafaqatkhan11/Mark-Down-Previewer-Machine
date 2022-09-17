@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/css/main.3a37878b.css",
+    "main.js": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/js/main.b4fe9a1d.js",
+    "static/js/787.aaf4d147.chunk.js": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/js/787.aaf4d147.chunk.js",
+    "index.html": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/index.html",
+    "main.3a37878b.css.map": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/css/main.3a37878b.css.map",
+    "main.b4fe9a1d.js.map": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/js/main.b4fe9a1d.js.map",
+    "787.aaf4d147.chunk.js.map": "/Shafaqatkhan11/Mark-Down-Previewer-Machine/static/js/787.aaf4d147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a37878b.css",
+    "static/js/main.b4fe9a1d.js"
+  ]
+}
