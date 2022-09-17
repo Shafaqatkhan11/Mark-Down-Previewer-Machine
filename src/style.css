@@ -1,0 +1,38 @@
+*{
+    margin: auto;
+    background-color: #333;
+    color: white;
+}
+#editor{
+    width: 500px;
+    height: 500px;
+    padding: 20px 20px;
+    box-shadow: 0px 0px 3px 3px blue;
+    border-radius: 10px solid white;
+    background-color: black;
+    color: azure;
+
+    
+}
+#preview{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border: 10px solid ;
+}
+#new{
+    
+     text-emphasis: none;
+     text-align: center;
+     text-transform: uppercase;
+     text-decoration-color: black;
+     border-radius: 10px solid green;
+     color: greenyellow
+    
+}
+#edi{
+    background-color:green;
+}
+#pre{
+    background-color: blue;
+}
